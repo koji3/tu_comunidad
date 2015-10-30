@@ -4,4 +4,4 @@ class QuestionMethodTests(TestCase):
 	def test_de_prueba(self):
 		numero = 4
 		self.assertEqual(numero, 4)
-		print "OK"# Create your tests here.
+		print ("OK")
