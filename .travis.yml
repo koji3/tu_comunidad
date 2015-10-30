@@ -6,4 +6,4 @@ install:
  - python com_app/setup.py install
 # command to run tests
 script:
- - python com_app/manage.py test
+ - python manage.py test
