@@ -1,4 +1,5 @@
 # Tu_Comunidad
+[![Build Status](https://travis-ci.org/koji3/tu_comunidad.svg?branch=master)](https://travis-ci.org/koji3/tu_comunidad)
 
 # Primer hito
 
