@@ -1,0 +1,9 @@
+language: python
+python:
+ - "3.4.3"
+# command to install dependencies
+install:
+ - python com_app/setup.py install
+# command to run tests
+script:
+ - python com_app/manage.py test
