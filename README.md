@@ -36,3 +36,4 @@ A partir de ahora, cada commit que haga se someterá de forma automática a todo
 ![test_superado](http://i.imgur.com/vRVIj8O.png)
 
 
+![integracion_travis](http://i.imgur.com/acS8FTj.png)
